@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1240"
+   LastUpgradeVersion = "1520"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52055CEB2745F99100896351"
+               BlueprintIdentifier = "52055D132745FA5800896351"
                BuildableName = "SwiftrisTests.xctest"
                BlueprintName = "SwiftrisTests"
                ReferencedContainer = "container:Swiftris.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52055CFB2745F9C300896351"
+               BlueprintIdentifier = "52055D232745FA6500896351"
                BuildableName = "SwiftrisUITests.xctest"
                BlueprintName = "SwiftrisUITests"
                ReferencedContainer = "container:Swiftris.xcodeproj">
